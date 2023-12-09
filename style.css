@@ -1,0 +1,9 @@
+.textarea-flex-container {
+    display: flex;
+}
+
+.flex-object {
+    flex: 1;
+    height: 200px;
+    margin: 20px 0;
+}
